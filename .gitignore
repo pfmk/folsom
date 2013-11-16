@@ -1,5 +1,8 @@
 *.py[cod]
 
+# Django
+settings.py
+
 # C extensions
 *.so
 
